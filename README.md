@@ -8,3 +8,5 @@ DualCore
 1. Koh Ming Keat
 2. En Zhi Xing
 
+## WEEK 2
+My Week 2 lab completed.
